@@ -60,6 +60,8 @@ how light pollution is measured (since I don't know)
 ** Google for "citizen science"
 ** Look for people that are doing things you are interested in near Singapore
 * The platforms that you would like to use.
+* ***Research programming languages, particularly python***
+* ***Research AI tools for generating code***
 * Take a look at ****Jupyter Viola and Marimo on the compute server***
 * Look at what is available in ***AI Tools***
 
