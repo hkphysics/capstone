@@ -1,4 +1,7 @@
-
+--- 
+title: "Capstone Assignment 1" 
+mainfont: "DejaVu Serif"
+---
 *** I put the assignments for the next meeting in boldface ***
 
 # For our next meeting
